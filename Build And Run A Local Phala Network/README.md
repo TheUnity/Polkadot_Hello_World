@@ -4,7 +4,7 @@ Terminal window with the phala-node, pruntime and phost
 User-issued secret token
 ![token](https://github.com/TheUnity/Polkadot_Hello_World/blob/main/Build%20And%20Run%20A%20Local%20Phala%20Network/token.jpg)
 
-Discord
+Discord  
 ![discord](https://github.com/TheUnity/Polkadot_Hello_World/blob/main/Build%20And%20Run%20A%20Local%20Phala%20Network/discord.jpg)
 
 Twitter
